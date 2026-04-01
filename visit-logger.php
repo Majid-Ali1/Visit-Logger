@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Visit Logger
  * Description: Logs page visits.
- * Version: 1.0.1
+ * Version: 1.0.2
  */
 
 if (!defined('ABSPATH')) exit;
