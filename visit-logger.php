@@ -12,7 +12,7 @@ if (!defined('ABSPATH')) exit;
  * AUTO UPDATE SETUP
  * ========================
  */
-require_once plugin_dir_path(__FILE__) . 'lib/updater/plugin-update-checker.php';
+require_once plugin_dir_path(__FILE__) . 'lib/updater/plugin-update-checker/plugin-update-checker.php';
 
 use YahnisElsts\PluginUpdateChecker\v5\PucFactory;
 
